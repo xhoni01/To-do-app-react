@@ -1,6 +1,4 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Creating a simple to do app with react
 
 ## Available Scripts
 
@@ -22,4 +20,9 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
-### `npm run server in order to run the json-server which is used to store the information`
+### `npm run server `
+
+In order to run the json-server which is used to store the information
+
+The server will run on [http://localhost:5000](http://localhost:5000) and the resources can be accessed on
+[http://localhost:5000/tasks](http://localhost:5000/tasks)
